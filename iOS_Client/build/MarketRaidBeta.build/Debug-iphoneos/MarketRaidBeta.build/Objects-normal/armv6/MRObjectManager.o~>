@@ -1,0 +1,10 @@
+In file included from /Users/marko/Progs/MarketRaidGIT/MarketRaidBeta/Classes/MRObjectManager.m:21:
+/Users/marko/Progs/MarketRaidGIT/MarketRaidBeta/Classes/MRPicture.h:38: error: expected ':' before 'makeVertexAnimationOffsets'
+{standard input}:unknown:Undefined local symbol L___mulsf3vfp$stub
+{standard input}:unknown:Undefined local symbol L___addsf3vfp$stub
+{standard input}:unknown:Undefined local symbol L_memcpy$stub
+{standard input}:unknown:Undefined local symbol L___gtsf2vfp$stub
+{standard input}:unknown:Undefined local symbol L___eqsf2vfp$stub
+{standard input}:unknown:Undefined local symbol L___divsf3vfp$stub
+{standard input}:unknown:Undefined local symbol L___subsf3vfp$stub
+{standard input}:unknown:Undefined local symbol L___nesf2vfp$stub
