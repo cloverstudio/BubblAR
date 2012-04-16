@@ -1,0 +1,16 @@
+
+#: /controllers/model_controller.php:100
+msgid "Model modified."
+msgstr "更新しました。"
+
+#: /controllers/model_controller.php:102;184
+#: /controllers/object_controller.php:151
+#: /controllers/settings_controller.php:121
+#: /controllers/user_controller.php:59;87;126
+msgid "Pleaes input values properly."
+msgstr "正しい情報を入力してください。"
+
+#: /controllers/model_controller.php:180
+msgid "New model is added."
+msgstr "追加しました。"
+

@@ -1,0 +1,421 @@
+#: /controllers/model_controller.php:100
+msgid "Model modified."
+msgstr "更新しました。"
+
+#: /controllers/model_controller.php:102;184
+#: /controllers/object_controller.php:151
+#: /controllers/settings_controller.php:121
+#: /controllers/user_controller.php:59;87;126
+msgid "Pleaes input values properly."
+msgstr "正しい情報を入力してください。"
+
+#: /controllers/model_controller.php:180
+msgid "New model is added."
+msgstr "追加しました。"
+
+#: /controllers/model_controller.php:194
+msgid "Model is deleted."
+msgstr "削除しました。"
+
+#: /controllers/object_controller.php:111
+msgid "Selected object is modified."
+msgstr "対象のオブジェクトを更新致しました。"
+
+#: /controllers/object_controller.php:121
+msgid "New label is added."
+msgstr "新規ラベルを追加致しました。"
+
+#: /controllers/object_controller.php:176
+msgid "Object is deleted."
+msgstr "オブジェクトを削除しました。"
+
+#: /controllers/user_controller.php:57
+msgid "You profile is modified."
+msgstr "プロフィールを更新致しました。"
+
+#: /controllers/user_controller.php:85
+msgid "User modified."
+msgstr "更新しました。"
+
+#: /controllers/user_controller.php:122
+msgid "New user is added."
+msgstr "新規ユーザーを追加しました。"
+
+#: /controllers/user_controller.php:135
+msgid "User is deleted."
+msgstr "削除しました。"
+
+#: /views/admin/index.ctp:5
+msgid "Your bubble-o-polis informaton"
+msgstr "ワールドの情報"
+
+#: /views/admin/index.ctp:13
+msgid "Your Portal point URL"
+msgstr "あなたのポータルポイントURL"
+
+#: /views/admin/index.ctp:18
+msgid "Polis's Portal point URL"
+msgstr "ワールドのポータルポイントURL"
+
+#: /views/layouts/admin.ctp:66
+msgid "profile"
+msgstr "個人情報"
+
+#: /views/layouts/admin.ctp:69
+msgid "settings"
+msgstr "設定"
+
+#: /views/layouts/admin.ctp:76
+msgid "logout"
+msgstr "ログアウト"
+
+#: /views/layouts/admin.ctp:89;97;104
+msgid "Dashboard"
+msgstr "管理トップ"
+
+#: /views/layouts/admin.ctp:91;105
+msgid "Objects"
+msgstr "オブジェクト"
+
+#: /views/layouts/admin.ctp:93;106
+#: /views/model/index.ctp:4
+msgid "Models"
+msgstr "3Dモデル"
+
+#: /views/layouts/admin.ctp:95;110
+#: /views/user/index.ctp:4
+msgid "Users"
+msgstr "ユーザー"
+
+#: /views/model/add.ctp:5
+msgid "Create new model"
+msgstr "新規モデルの追加"
+
+#: /views/model/add.ctp:6
+#: /views/model/edit.ctp:6
+#: /views/user/add.ctp:6
+#: /views/user/edit.ctp:6
+msgid "back to list"
+msgstr "リストに戻る"
+
+#: /views/model/add.ctp:26
+#: /views/model/edit.ctp:26
+#: /views/model/index.ctp:14
+#: /views/user/index.ctp:14
+msgid "Name"
+msgstr "名前"
+
+#: /views/model/add.ctp:36;55;73
+#: /views/model/edit.ctp:36;55;73;91
+#: /views/object/index.ctp:212;230;248;315;336;354;390
+#: /views/settings/index.ctp:37;52
+msgid "This field cannot be left blank."
+msgstr "入力してください。"
+
+#: /views/model/add.ctp:37
+#: /views/model/edit.ctp:37
+#: /views/object/index.ctp:213;231;249;355;373;391
+msgid "This field needs float number."
+msgstr "半角数字のみ入力してください。"
+
+#: /views/model/add.ctp:42
+#: /views/model/edit.ctp:42
+msgid "This is used for only backend. You can in objects set title."
+msgstr "ここの名前は管理用のみに利用されます。"
+
+#: /views/model/add.ctp:45
+#: /views/model/edit.ctp:45
+msgid "MD2 Object:"
+msgstr "MD2モデル"
+
+#: /views/model/add.ctp:63
+#: /views/model/edit.ctp:63
+msgid "Texture:"
+msgstr "テクスチャー"
+
+#: /views/model/add.ctp:85
+#: /views/model/edit.ctp:100
+#: /views/object/index.ctp:411
+#: /views/settings/index.ctp:107
+#: /views/user/add.ctp:86
+#: /views/user/edit.ctp:87
+#: /views/user/profile.ctp:90
+msgid "Save"
+msgstr "保存"
+
+#: /views/model/edit.ctp:5
+msgid "Edit model"
+msgstr "編集"
+
+#: /views/model/edit.ctp:59;77;94
+msgid "Upload file if you want to replace."
+msgstr "ファイルを変更したい時のみアップロードしてください。"
+
+#: /views/model/edit.ctp:81
+msgid "icon:"
+msgstr "アイコン"
+
+#: /views/model/index.ctp:5
+#: /views/object/index.ctp:429
+#: /views/user/index.ctp:5
+msgid "add new"
+msgstr "新規追加"
+
+#: /views/model/index.ctp:13
+#: /views/object/index.ctp:437
+#: /views/regist/index.ctp:22
+#: /views/regist/newuser.ctp:24
+#: /views/user/add.ctp:26
+#: /views/user/edit.ctp:26
+#: /views/user/index.ctp:13
+#: /views/user/profile.ctp:25
+msgid "ID"
+msgstr "ID"
+
+#: /views/model/index.ctp:15
+msgid "Files"
+msgstr "ファイル"
+
+#: /views/model/index.ctp:16
+#: /views/object/index.ctp:443
+#: /views/user/index.ctp:16
+msgid "Created"
+msgstr "作成日"
+
+#: /views/model/index.ctp:17
+#: /views/object/index.ctp:444
+#: /views/user/index.ctp:17
+msgid "Action"
+msgstr "操作"
+
+#: /views/model/index.ctp:52
+#: /views/object/index.ctp:505
+#: /views/user/index.ctp:44
+msgid "ok?"
+msgstr "よろしいですか？"
+
+#: /views/model/index.ctp:81
+#: /views/object/index.ctp:534
+#: /views/user/index.ctp:73
+msgid "previous"
+msgstr "前へ"
+
+#: /views/model/index.ctp:101
+#: /views/object/index.ctp:554
+#: /views/user/index.ctp:93
+msgid "next"
+msgstr "次へ"
+
+#: /views/object/index.ctp:167
+msgid "Select points in map"
+msgstr "ロケーションを選択してください。"
+
+#: /views/object/index.ctp:178
+msgid "Detailed information"
+msgstr "詳細情報"
+
+#: /views/object/index.ctp:202
+msgid "Latitude:"
+msgstr "経度"
+
+#: /views/object/index.ctp:220
+msgid "Longitude:"
+msgstr "緯度"
+
+#: /views/object/index.ctp:238
+msgid "Altitude:"
+msgstr "高さ"
+
+#: /views/object/index.ctp:254
+msgid "Unit is meter"
+msgstr "メートル単位で入力してください。"
+
+#: /views/object/index.ctp:269;466
+msgid "Label"
+msgstr "ラベル"
+
+#: /views/object/index.ctp:280;469
+msgid "Picture"
+msgstr "画像"
+
+#: /views/object/index.ctp:292;325;428;480
+msgid "Model"
+msgstr "3Dモデル"
+
+#: /views/object/index.ctp:298
+msgid "picture:"
+msgstr "画像："
+
+#: /views/object/index.ctp:305
+msgid "Delete picture"
+msgstr "画像を削除"
+
+#: /views/object/index.ctp:316
+#: /views/settings/index.ctp:68;91
+msgid "Only Png ang Jpg are allowed."
+msgstr "pngとjpgのみ有効です"
+
+#: /views/object/index.ctp:344
+msgid "Title:"
+msgstr "タイトル："
+
+#: /views/object/index.ctp:362
+msgid "Url:"
+msgstr "Url:"
+
+#: /views/object/index.ctp:372
+msgid "Url is invalid."
+msgstr "Urlが不正です。"
+
+#: /views/object/index.ctp:377
+msgid "must begin with http://"
+msgstr "http://で初めてください。"
+
+#: /views/object/index.ctp:380
+msgid "Description:"
+msgstr "説明文"
+
+#: /views/object/index.ctp:438
+msgid "Type"
+msgstr "種類"
+
+#: /views/object/index.ctp:439
+msgid "Title"
+msgstr "タイトル"
+
+#: /views/object/index.ctp:440
+msgid "Url"
+msgstr "Url"
+
+#: /views/object/index.ctp:441
+msgid "Description"
+msgstr "説明"
+
+#: /views/object/index.ctp:442
+msgid "Location"
+msgstr "位置情報"
+
+#: /views/regist/index.ctp:7;36
+#: /views/regist/newuser.ctp:7
+msgid "Login"
+msgstr "ログイン"
+
+#: /views/regist/index.ctp:8
+#: /views/regist/newuser.ctp:8;63
+msgid "Register"
+msgstr "登録"
+
+#: /views/regist/index.ctp:15
+msgid "Incorrect id or password."
+msgstr "パスワードが違います。"
+
+#: /views/regist/index.ctp:17
+msgid "Input your id and password."
+msgstr "IDとパスワードを入力してください。"
+
+#: /views/regist/index.ctp:28
+#: /views/regist/newuser.ctp:37
+#: /views/user/add.ctp:38
+#: /views/user/edit.ctp:38
+#: /views/user/profile.ctp:37
+msgid "Password"
+msgstr "パスワード"
+
+#: /views/regist/newuser.ctp:15
+msgid "Please correct errors."
+msgstr "入力情報に間違いがあります。"
+
+#: /views/regist/newuser.ctp:19
+msgid "You are registered, thank you !"
+msgstr "登録が完了致しました。"
+
+#: /views/regist/newuser.ctp:28;41;53
+#: /views/user/add.ctp:30;43;57;76
+#: /views/user/edit.ctp:30;43;57;76
+#: /views/user/profile.ctp:29;42;56;77
+msgid "Please input this field."
+msgstr "入力してください。"
+
+#: /views/regist/newuser.ctp:29;42
+#: /views/user/add.ctp:31;44
+#: /views/user/edit.ctp:31;44
+#: /views/user/profile.ctp:30;43
+msgid "Only alphabet and numbers are allowed."
+msgstr "半角英数字のみ入力してください。"
+
+#: /views/regist/newuser.ctp:30;43
+#: /views/user/add.ctp:32;45;59;78
+#: /views/user/edit.ctp:32;45;59;78
+#: /views/user/profile.ctp:31;44;58;79
+msgid "Please input more than 4 characters."
+msgstr "４文字以上です。"
+
+#: /views/regist/newuser.ctp:31
+#: /views/user/add.ctp:33
+#: /views/user/edit.ctp:33
+#: /views/user/profile.ctp:32
+msgid "This id is already teken."
+msgstr "このIDは既に使われております。"
+
+#: /views/regist/newuser.ctp:49
+#: /views/user/add.ctp:52
+#: /views/user/edit.ctp:52
+#: /views/user/profile.ctp:51
+msgid "Email"
+msgstr "Email"
+
+#: /views/regist/newuser.ctp:54
+msgid "Invalid email address."
+msgstr "メールアドレスが不正です。"
+
+#: /views/regist/newuser.ctp:55
+msgid "You are already registered."
+msgstr "既に登録済みです。"
+
+#: /views/settings/index.ctp:5
+msgid "Bubble-o-polis settings"
+msgstr "ワールドの設定"
+
+#: /views/settings/index.ctp:29
+msgid "Bubble-o-polis name"
+msgstr "ワールド名"
+
+#: /views/settings/index.ctp:44
+msgid "Opening words"
+msgstr "オープン時の説明"
+
+#: /views/settings/index.ctp:59
+msgid "Icon:"
+msgstr "アイコン"
+
+#: /views/settings/index.ctp:82
+msgid "Picture:"
+msgstr "画像"
+
+
+#: /views/user/add.ctp:66
+#: /views/user/edit.ctp:66
+#: /views/user/index.ctp:15
+#: /views/user/profile.ctp:67
+msgid "Permission"
+msgstr "権限"
+
+#: /views/user/add.ctp:71
+#: /views/user/edit.ctp:71
+#: /views/user/profile.ctp:72
+msgid "user"
+msgstr "ユーザー"
+
+#: /views/user/add.ctp:72
+#: /views/user/edit.ctp:72
+#: /views/user/profile.ctp:73
+msgid "admin"
+msgstr "管理者"
+
+#: /views/user/edit.ctp:5
+msgid "Edit user"
+msgstr "編集"
+
+#: /views/user/profile.ctp:5
+msgid "Edit profile"
+msgstr "プロフィールの編集"
